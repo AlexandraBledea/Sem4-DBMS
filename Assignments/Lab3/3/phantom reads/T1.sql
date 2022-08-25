@@ -1,0 +1,11 @@
+USE Lab3_DBMS
+GO
+
+-- DELETE FROM Library WHERE id = 3
+-- SELECT * FROM Library
+
+-- part 1
+BEGIN TRAN
+WAITFOR DELAY '00:00:06'
+INSERT INTO Library(ID, Address, Nr_Of_Books) VALUES(3, 'Arad, nr 145', 300)
+COMMIT TRAN

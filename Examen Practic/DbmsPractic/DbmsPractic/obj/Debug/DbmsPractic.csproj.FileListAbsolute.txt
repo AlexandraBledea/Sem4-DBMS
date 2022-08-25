@@ -1,0 +1,32 @@
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.exe.config
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.exe
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.pdb
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csprojAssemblyReference.cache
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.Properties.Resources.resources
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.GenerateResource.cache
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.exe
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.pdb
+C:\Users\Andrei\Documents\UBB\2021-2022\Sem2\DBMS\DbmsPractic\DbmsPractic\obj\Debug\PracticalExamModel.Form1.resources
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.exe.config
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.exe
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.pdb
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.AssemblyReference.cache
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.SuggestedBindingRedirects.cache
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\obj\Debug\PracticalExamModel.Form1.resources
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.Properties.Resources.resources
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.GenerateResource.cache
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.CoreCompileInputs.cache
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.exe
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\PracticFlaviu\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.pdb
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.exe.config
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.exe
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\bin\Debug\DbmsPractic.pdb
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.AssemblyReference.cache
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.SuggestedBindingRedirects.cache
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\obj\Debug\PracticalExamModel.Form1.resources
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.Properties.Resources.resources
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.GenerateResource.cache
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.csproj.CoreCompileInputs.cache
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.exe
+C:\Users\night\Desktop\Facultate An 2\Semestru 2\(DBMSs) Database Management Systems\Examen Practic\DbmsPractic\DbmsPractic\obj\Debug\DbmsPractic.pdb
